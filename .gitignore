@@ -24,3 +24,7 @@ build/
 /dist/
 /build/
 *.egg-info/ 
+
+# Project specific
+.notes/
+.cursor*
