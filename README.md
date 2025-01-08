@@ -2,6 +2,11 @@
 
 A creative web application that generates stunning AI art using OpenAI's DALL-E API. Built with SvelteKit for the frontend and Flask for API handling.
 
+![PixelPalette Interface](screenshots/screenshot.png)
+
+### Example Generation
+![Generated Coffee Shop](screenshots/screenshot2.png)
+
 ## Features
 
 - 🖼️ Generate AI art from text prompts using DALL-E
